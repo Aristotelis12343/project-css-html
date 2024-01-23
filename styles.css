@@ -1,0 +1,122 @@
+
+header{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content:center;
+    background:#EFEEE7;
+    height:55vh;
+    text-align: center;
+
+}
+
+
+h1{
+    margin-top:100px;
+    font-size:2.5rem;
+    color:#545454;
+}
+
+.first-par{
+    font-size:2rem;
+    color:#545454;
+}
+
+.programmer{
+    position: relative;
+    height: 360px;
+}
+
+.who-am-i{
+    text-align: center;
+}
+
+.photo-of-me{
+    margin-top:50px;
+    height:150px;
+    border-radius:50%;
+}
+
+.hello{
+    font-size:2.5rem;
+    color:#545454;
+}
+
+.second-par{
+    font-size:1.5rem;
+    color:#545454;
+    padding-bottom:50px;
+}
+
+.parent{
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    width:50%;
+    padding-top:65px;
+   
+}
+
+.skills{
+    display:flex;
+    justify-content: center;
+    text-align:left;
+}
+
+.html-img{
+    height:160px;
+}
+
+.skills-header{
+    color:#545454;
+    font-size:2rem;
+}
+
+.skills-paragraph{
+    color:#545454;
+    font-size:1.5rem;
+}
+
+.skills-header1{
+    color:#545454;
+    font-size:2.5rem;
+    padding-top:50px;
+}
+
+footer{
+    text-align:center;
+    background: #EFEEE7;
+}
+
+.footer-par{
+    font-size:1.2rem;
+    color:#545454;
+}
+
+.footer-header{
+    padding-top:50.14px;
+    color:#545454;
+}
+
+.second{
+    padding:50px;
+}
+
+button{
+    font-size:1.2rem;
+    background:#737373;
+    border-radius:1.2rem;
+}
+
+
+
+hr{
+    border:10px dotted #EFEEE7;
+    border-bottom:none;
+    width:15%;
+}
+
+
+
+
